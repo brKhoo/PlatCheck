@@ -1,0 +1,13 @@
+{
+  "intercept": 4.832850495408486,
+  "coefficients": {
+    "median_1d": -0.11980028780009776,
+    "median_7d": 0.12840376594680508,
+    "median_30d": 0.9803149119035106
+  },
+  "model": "ridge_regression",
+  "trained_at": "2026-01-16",
+  "training_samples": 11605,
+  "items_used": 170,
+  "r2_score": 0.5919603979394403
+}
