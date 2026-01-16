@@ -2,6 +2,8 @@
 
 A simple web app that estimates the optimal price to sell warframe items at using Ridge Regression.
 
+![PlatCheck Demo](./PlatCheckDemo.png)
+
 ## Features
 
 - **Price Trends**: View 1-day, 7-day, and 30-day median prices
