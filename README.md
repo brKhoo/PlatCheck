@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ### Why Ridge Regression?
 
-Ridge Regression is a type of machine learning that finds patterns in historical prices and uses them to estimate what an item should cost, which is perfectly suited for the main purpose of this tool.
+Ridge Regression is a technique that finds patterns in historical prices and uses them to estimate what an item should cost.
 
 The model uses three pieces of information to make predictions:
 
